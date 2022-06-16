@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<!-- xml dtd declaration starts here-->
+<!DOCTYPE codelean [
+        <!ELEMENT codelean (to, from, subject, message)>
+        <!ELEMENT to (#PCDATA)>
+        <!ELEMENT from (#PCDATA)>
+        <!ELEMENT subject (#PCDATA)>
+        <!ELEMENT message (#PCDATA)>
+        ]>
+<!-- xml dtd declaration ends here -->
+<codelean>
+    <to>My Readers</to>
+    <from>ThiDK</from>
+    <subject>A message to my readers</subject>
+    <message>welcome to codelean.vn</message>
+</codelean>

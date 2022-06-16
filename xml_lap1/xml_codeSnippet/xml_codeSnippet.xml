@@ -1,0 +1,17 @@
+<?xml version = "1.0" encoding="iso-8859-1"?>
+    <!DOCTYPE Music_library [
+            <!ELEMENT Music_library (title, artist, country, price, year)>
+            <!ELEMENT title (#PCDATA)>
+            <!ELEMENT artist (#PCDATA)>
+            <!ELEMENT country (#PCDATA)>
+            <!ELEMENT price (#PCDATA)>
+            <!ELEMENT year (#PCDATA)>
+            <!ENTITY MS "Thatz life">
+             ]>
+    <Music_library>
+    <title>Ylo</title>
+    <artist>&MS; - jenny dan</artist>
+    <country>Germanyo</country>
+    <price>$12</price>
+    <year>2002</year>
+</Music_library>

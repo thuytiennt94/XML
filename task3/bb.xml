@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+
+<codelean xmlns="http://www.codelean.vn"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.codelean.vn  bb.xsd">
+    <to>My readers</to>
+    <from>ThiDK/</from>
+    <subject>A message to my readers</subject>
+    <message>welcome to codelean.vn</message>
+</codelean>

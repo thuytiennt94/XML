@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!-- An invalid document -->
+<greeting>
+    Hello, Would!
+</greeting>
+
+<greeting>
+    Hola, el Mundo!
+</greeting>
