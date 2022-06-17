@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="purchase.xsl"?>
+<PurchaseOrder>
+    <PONumber>AP-34564</PONumber>
+    <PODate>18-Feb-2007</PODate>
+    <seller>David enterprises</seller>
+    <buyer>ThiDK inc.</buyer>
+    <ShipTo>
+        <name>codelean inc.</name>
+        <street>b-602, ne street</street>
+        <cityZip>laville,5843</cityZip>
+        <country>usa</country>
+    </ShipTo>
+    <billto>
+        <name>chelsea inc.</name>
+        <street>World hq, da vinci street</street>
+        <cityZip>laville,nc 4754</cityZip>
+        <country>usa</country>
+    </billto>
+    <products>
+        <product>
+            <name>13" monitor</name>
+            <quantity>10</quantity>
+            <price>$150.00</price>
+        </product>
+        <product>
+            <name>15" monitor</name>
+            <quantity>20</quantity>
+            <price>$200.00</price>
+        </product>
+        <product>
+            <name>21" monitor</name>
+            <quantity>5</quantity>
+            <price>$1050.00</price>
+        </product>
+    </products>
+    <instructions>
+        <instruction>the vat number an the invoice should be split
+        betwwen the net value of goods and services</instruction>
+        <instruction>invaices submitted to account without a purchase order number refereced will be returned
+        to the supolier inpaid by the accounts department.</instruction>
+    </instructions>
+</PurchaseOrder>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="bookInfo.css"?>
+<book>
+    <bookDetail>
+        <titleDetail>
+            <title>Head First java, 2nd edition </title>by
+            <Authors>Kathy Sierra, Bert Bates</Authors>
+            (<EditionInfo>PaperBack</EditionInfo> -
+            <printDate>
+                Feb 9, 2005
+            </printDate>)
+        </titleDetail>
+        <Price>
+            NewPrice:
+            <NewPrice>$29.67</NewPrice>
+            Old Price:
+            <OldPrice>$18.96</OldPrice>
+        </Price>
+
+        <overInfo>
+            Get it by
+            <getDate>
+                Tueday, Feb 27</getDate> , if you order in the next
+            <Hours>57 houes and</Hours>
+            <Minutes>43 minutes</Minutes>
+        </overInfo>
+        <Edition>
+            Other Editions:
+            <editionType>PaperBack</editionType>
+        </Edition>
+    </bookDetail>
+
+
+    <bookDetail>
+        <titleDetail>
+            <title>Efective Java Programming Language Guide </title>by
+            <Authors>Joshua Bloch</Authors>
+            (<EditionInfo>PaperBack</EditionInfo> -
+            <printDate>
+                Jun 5, 2001
+            </printDate>)
+        </titleDetail>
+        <Price>
+            NewPrice:
+            <NewPrice>$45.49</NewPrice>
+            Old Price:
+            <OldPrice>$38.58</OldPrice>
+        </Price>
+
+        <overInfo>
+            Get it by
+            <getDate>
+                Tueday, Feb 27</getDate> , if you order in the next
+            <Hours>37 houes and</Hours>
+            <Minutes>47 minutes</Minutes>
+        </overInfo>
+        <Edition>
+            Other Editions:
+            <editionType>PaperBack</editionType>
+        </Edition>
+    </bookDetail>
+
+    <bookDetail>
+        <titleDetail>
+            <title>SCJP Sun Vertified Programming for java 5 study Guide (exam 310-055) (certification Press Study Guides) </title>by
+            <Authors>Katherine Sierra, Bert Bates</Authors>
+            (<EditionInfo>PaperBack</EditionInfo> -
+            <printDate>
+                Dec 21, 2005
+            </printDate>)
+        </titleDetail>
+        <Price>
+            NewPrice:
+            <NewPrice>$32.99</NewPrice>
+            Old Price:
+            <OldPrice>$30.87</OldPrice>
+        </Price>
+
+        <overInfo>
+            Get it by
+            <getDate>
+                Tueday, Feb 27</getDate> , if you order in the next
+            <Hours>37 hours and</Hours>
+            <Minutes>47 minutes</Minutes>
+        </overInfo>
+        <Edition>
+            Other Editions:
+            <editionType>PaperBack, DIgital</editionType>
+        </Edition>
+    </bookDetail>
+
+    <bookDetail>
+        <titleDetail>
+            <title>Beginning Programming with java for dummics (for dummiec (computer/tech))</title>by
+            <Authors>Barry Burd</Authors>
+            (<EditionInfo>PaperBack</EditionInfo> -
+            <printDate>
+                April 15, 2005
+            </printDate>)
+        </titleDetail>
+        <Price>
+            NewPrice:
+            <NewPrice>$17.24</NewPrice>
+            Old Price:
+            <OldPrice>$13.36</OldPrice>
+        </Price>
+
+        <overInfo>
+            Get it by
+            <getDate>
+                Tueday, Feb 27</getDate> , if you order in the next
+            <Hours>37 hours and</Hours>
+            <Minutes>17 minutes</Minutes>
+        </overInfo>
+        <Edition>
+            Other Editions:
+            <editionType>PaperBack, digital</editionType>
+        </Edition>
+    </bookDetail>
+</book>
