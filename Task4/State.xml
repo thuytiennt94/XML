@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="state.xsl"?>
+<states>
+    <state>
+        <name>Californa</name>
+        <population>33871648 people</population>
+        <capital>sacramento</capital>
+        <bird>quail</bird>
+        <flower>golden poppy</flower>
+        <area>155959 square miles</area>
+    </state>
+    <state>
+        <name>massaachusetts</name>
+        <population>6349097 people</population>
+        <capital>boston</capital>
+        <bird>chickadee</bird>
+        <flower>Mayflower</flower>
+        <area>7840 square miles</area>
+    </state>
+    <state>
+        <name>New york</name>
+        <population>18976457 people</population>
+        <capital>albany</capital>
+        <bird>bluebird</bird>
+        <flower>rose</flower>
+        <area>47214 square miles</area>
+    </state>
+</states>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="SalesData_stylesheet.xsl"?>
+<CottonDesk>
+    <SalesPerson>
+        <Product>Laptop</Product>
+        <name>David Blake </name>
+        <age>32</age>
+        <sales>20000</sales>
+    </SalesPerson>
+
+    <SalesPerson>
+        <Product>Laptop</Product>
+        <name>Susan Jones</name>
+        <age>55</age>
+        <sales>35000</sales>
+    </SalesPerson>
+    <SalesPerson>
+        <Product>Laptop</Product>
+        <name>Martin Howell</name>
+        <age>25</age>
+        <sales>1000</sales>
+    </SalesPerson>
+    <SalesPerson>
+        <Product>Keyboard</Product>
+        <name>Harry Diana</name>
+        <age>23</age>
+        <sales>0</sales>
+    </SalesPerson>
+    <SalesPerson>
+        <Product>Laptop</Product>
+        <name>Tony Kemp </name>
+        <age>35</age>
+        <sales>35000</sales>
+    </SalesPerson>
+</CottonDesk>
